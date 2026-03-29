@@ -17,6 +17,11 @@
   * [グラフ描画の説明](https://github.com/koreisami/ishikawa_Portfolio/blob/main/simple_ts/simple_plot.md)
   * [グラフ描画のプログラムコード](https://github.com/koreisami/ishikawa_Portfolio/blob/main/simple_ts/simple_plot.py)
 
+### 2. 京都府農業産出額 の減少要因の分析
+* グラフ上は京都府農業産出額が下降傾向にある
+* この下降傾向の原因を分析する
+* 以下の考察に記載
+  * [考察](https://github.com/koreisami/ishikawa_Portfolio/blob/main/%E8%80%83%E5%AF%9F/think_1st.md)
 
 ### 99. 実行環境
 * 私の実行環境におけるインストールパッケージリスト
