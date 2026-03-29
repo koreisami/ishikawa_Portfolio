@@ -11,7 +11,7 @@ if os.path.isfile(target_data_file):
     target_data_orig = pd.read_csv(target_data_file)
 else: 
     print("File Not Exist")
-    os._exit()
+    os._exit(-1)
 
 # カラムの付替え
 target_data_orig.columns = [
