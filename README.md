@@ -16,3 +16,8 @@
 * グラフ描画 : 各品目の傾向をグラフ描画で掴む
   * [グラフ描画の説明](https://github.com/koreisami/ishikawa_Portfolio/blob/main/simple_ts/simple_plot.md)
   * [グラフ描画のプログラムコード](https://github.com/koreisami/ishikawa_Portfolio/blob/main/simple_ts/simple_plot.py)
+
+
+### 99. 実行環境
+* 私の実行環境におけるインストールパッケージリスト
+  * [requirements.txt](https://github.com/koreisami/ishikawa_Portfolio/blob/main/requirement/requirements.txt)
