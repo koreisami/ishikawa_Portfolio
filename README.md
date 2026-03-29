@@ -23,6 +23,12 @@
 * 以下の考察に記載
   * [考察](https://github.com/koreisami/ishikawa_Portfolio/blob/main/%E8%80%83%E5%AF%9F/think_1st.md)
 
+### 98. 権利関係
+データを各県のデータカタログより取得しています<br>
+京都府/静岡県関連のデータは[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)に準じており、本サイトではそのデータを分析に使用するため、編集を行っています<br>
+静岡県関連のデータは
+
+
 ### 99. 実行環境
 * 私の実行環境におけるインストールパッケージリスト
   * [requirements.txt](https://github.com/koreisami/ishikawa_Portfolio/blob/main/requirement/requirements.txt)
